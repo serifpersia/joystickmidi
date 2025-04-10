@@ -25,8 +25,8 @@ A simple **Windows-only** utility to map HID joystick/gamepad inputs (axes/butto
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/serifpersia/joystickmidi-win.git
-    cd joystickmidi-win
+    git clone https://github.com/serifpersia/joystickmidi.git
+    cd joystickmidi
     ```
 2.  **Run the build script:**
     ```batch
@@ -53,6 +53,6 @@ A simple **Windows-only** utility to map HID joystick/gamepad inputs (axes/butto
 
 ## Get Latest Release
 
-[![Latest Release](https://img.shields.io/github/v/release/serifpersia/joystickmidi-win?label=latest%20release&style=flat-square&logo=github)](https://github.com/serifpersia/joystickmidi-win/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/serifpersia/joystickmidi?label=latest%20release&style=flat-square&logo=github)](https://github.com/serifpersia/joystickmidi/releases/latest)
 
 Click the badge above to download the latest pre-compiled version.
