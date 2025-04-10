@@ -12,6 +12,13 @@ A simple **Windows-only** utility to map HID joystick/gamepad inputs (axes/butto
 *   Save and load configurations (`.hidmidi.json`).
 *   Simple console interface.
 
+
+## Get Latest Release
+
+[![Latest Release](https://img.shields.io/github/v/release/serifpersia/joystickmidi?label=latest%20release&style=flat-square&logo=github)](https://github.com/serifpersia/joystickmidi/releases/latest)
+
+Click the badge above to download the latest pre-compiled version.
+
 ## Requirements
 
 *   Windows 7 or later.
@@ -51,8 +58,6 @@ A simple **Windows-only** utility to map HID joystick/gamepad inputs (axes/butto
 3.  **Load Configuration:** If `.hidmidi.json` files exist in the same directory, you'll be prompted to load one or create a new configuration.
 4.  **Monitoring:** Once configured (or loaded), the application will monitor the selected input and send MIDI messages accordingly. Press `Ctrl+C` or close the console window to exit.
 
-## Get Latest Release
+## License
 
-[![Latest Release](https://img.shields.io/github/v/release/serifpersia/joystickmidi?label=latest%20release&style=flat-square&logo=github)](https://github.com/serifpersia/joystickmidi/releases/latest)
-
-Click the badge above to download the latest pre-compiled version.
+This project is licensed under the [MIT License](LICENSE).
